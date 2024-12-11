@@ -1,0 +1,20 @@
+##TEXT
+
+About Me
+
+I'm a Computer Science student from Tel Aviv, graduating from Tel Aviv University.
+I love math and details, enjoying theoretical fields like Cryptography and Machine Learning.
+Besides that, I also enjoy web developing, taking online classes and practicing frontend and backend developing.
+I'm passionate, nerdy and love to study. I spent the last year as a researcher at TAU's Neuroscience department, expanding my knowledge at other fields.
+
+Projects
+These are some of my favorites projects I did recently. 
+Subtitles Generator- Collaborating with great content creators, I've created a subtitles generator using the open source Whisper.
+My favorite thing about this project is how much could very few lines of code do, using the right tools and libraries.
+
+Data Structures 101- This project is all about teaching. My favorite class in the University was Data Structures, and one of my favorite things
+is to teach, and so, I created this project as an educational project, with the purpose of explaining all you need to know about the basic d.s., 
+and implementing them in different coding languages.
+
+Intro to clustering- Machine learning is the biggest thing in the world right now and for a right reason. 
+This project is an implementation of couple of clustering algorithms, with a small analysis that's comparing them
